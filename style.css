@@ -1,0 +1,39 @@
+body {
+    font-family: "Monaco";
+    background: #f06d06;
+    color: white;
+    text-align: center;
+  }
+.dogooder {
+  font-family: "Bedrock";
+  background: #20124d;
+  color: #ffff00;
+  text-align: center;
+}
+a {
+  color: rgb(187, 255, 0);
+}
+  table {
+  border: 1px solid white;
+  border-radius: 10px;
+  }
+  td {
+    border: 1px solid white;
+    vertical-align: center;
+  }
+  .centered{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .rounded {
+    border-radius: 10px;
+  }
+  .shadow{
+    border: 2px solid;
+    padding: 10px;
+    box-shadow: 6px 4px;
+  }
+  .alternate{
+    background-color: #f0982c;
+  }
+  
